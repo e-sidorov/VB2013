@@ -1,2 +1,2 @@
-vb2013
+Virus Bulletin 2013
 ======
