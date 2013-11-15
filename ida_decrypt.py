@@ -1,6 +1,6 @@
 # IDAPython script ( need IDA Pro > 6.0 )
 # Authors:
-# Andrey Rassokhin ( gizmo@yande-team.ru )
+# Andrey Rassokhin ( gizmo@yandex-team.ru )
 # Evgeniy Sidorov ( e-sidorov@yandex-team.ru )
 
 from operator import itemgetter
